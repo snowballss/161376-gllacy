@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Pavel Bondarenko](https://htmlacademy.ru/profile/id161376).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Ковалёв](https://htmlacademy.ru/profile/id38378).
 
 ---
 
